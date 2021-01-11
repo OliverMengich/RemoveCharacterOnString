@@ -1,0 +1,7 @@
+C:\Users\olive\source\repos\RemoveCharacter\RemoveCharacter\bin\Debug\RemoveCharacter.exe.config
+C:\Users\olive\source\repos\RemoveCharacter\RemoveCharacter\bin\Debug\RemoveCharacter.exe
+C:\Users\olive\source\repos\RemoveCharacter\RemoveCharacter\bin\Debug\RemoveCharacter.pdb
+C:\Users\olive\source\repos\RemoveCharacter\RemoveCharacter\obj\Debug\RemoveCharacter.csprojAssemblyReference.cache
+C:\Users\olive\source\repos\RemoveCharacter\RemoveCharacter\obj\Debug\RemoveCharacter.csproj.CoreCompileInputs.cache
+C:\Users\olive\source\repos\RemoveCharacter\RemoveCharacter\obj\Debug\RemoveCharacter.exe
+C:\Users\olive\source\repos\RemoveCharacter\RemoveCharacter\obj\Debug\RemoveCharacter.pdb
